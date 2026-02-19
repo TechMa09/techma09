@@ -1,15 +1,11 @@
-Hello👋 My name is Placida Fernando
+Hello👋
 ======================
 
-Director Enterprise Architecture
-------------------------
 
-My hobby is to keep things simple and help struggling FIs to improve/automate their processes to be differentiators among others
-
-* 🌍  Based in Pennsylvania (USA)
-* 🖥️  See my portfolio at [My Portfolio](https://placidass.xyz)
-* ✉️  You can contact me at [contact@placidass.xyz](https://placidass.xyz/contact)
-* 🚀  Currently working on [Conflict Roleplay](https://discord.gg/uuYdafHBNv) / [placidass.xyz](https://placidass.xyz)
+* 🌍  US
+* 🖥️  See my portfolio at [My Portfolio](https://techma09.xyz)
+* ✉️  You can contact me at [contact@TECHMA09.xyz](https://TECHMA09.xyz/contact)
+* 🚀  Currently working on [Conflict Roleplay](https://discord.gg/uuYdafHBNv) / [TECHMA09.xyz](https://TECHMA09.xyz)
 * 🧠  Learning How to create a fully custom FiveM & RedM Framework
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
 * ⚡  Why so serious?!
