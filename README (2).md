@@ -8,7 +8,7 @@ Hello👋
 * 🚀  Currently working on [Conflict Roleplay](https://discord.gg/uuYdafHBNv) / [TECHMA09.xyz](https://TECHMA09.xyz)
 * 🧠  Learning How to create a fully custom FiveM & RedM Framework
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
-* ⚡  Why so serious?!
+* ⚡  
 
 <a href="https://www.github.com/JoKeRxTD" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/JoKeRxTD?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" />
